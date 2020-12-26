@@ -40,5 +40,7 @@
     "type": "git",
     "url": "git@github.com:ostkost/vanillajs-excel"
   },
-  "dependencies": {}
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
 }
