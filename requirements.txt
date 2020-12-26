@@ -1,9 +1,0 @@
-Webpack
-    Babel
-    Scss
-    Eslint
-        Dev
-            dev server, sourcemaps, eslint
-        Prod
-            - // -, minified js and css
-Git
